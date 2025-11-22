@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Have questions or suggestions? Feel free to reach out!
 
-- Email: your.pshemanth2@gmail.com
+- Email: pshemanth2@gmail.com
 
 ---
 
