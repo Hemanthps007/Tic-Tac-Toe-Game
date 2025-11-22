@@ -186,8 +186,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Hemanthps007)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hemanth-ps-37b970309/)
+- GitHub: [Hemanth](https://github.com/Hemanthps007)
+- LinkedIn: [Hemanth](https://www.linkedin.com/in/hemanth-ps-37b970309/)
 
 ## 🙏 Acknowledgments
 
